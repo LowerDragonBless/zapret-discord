@@ -1,0 +1,2 @@
+domain.example.abc
+# LowerDragonBless/zapret-discord aff3b2500506
